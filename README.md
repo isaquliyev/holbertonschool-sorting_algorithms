@@ -1,1 +1,1 @@
-Holberton School sorting algorithms.
+Holberton School sorting algorithms
